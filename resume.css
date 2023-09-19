@@ -1,0 +1,17 @@
+#about {
+  text-align: center;
+  padding: 40px;
+}
+#about img {
+  width: 200px;
+  border-radius: 100%;
+}
+#about h1 {
+  margin: 25px;
+}
+section {
+  padding-bottom: 40px;
+}
+.card .card-header {
+  cursor: pointer;
+}
