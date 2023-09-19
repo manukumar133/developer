@@ -11,7 +11,7 @@
       $request = " insert into book_form(name, email, phone, address) values('$name','$email','$phone','$address') ";
       mysqli_query($connection, $request);
 
-      header('location:book.php');
+      header('location:book.html');
 
    }else{
       echo 'something went wrong please try again!';
